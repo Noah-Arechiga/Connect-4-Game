@@ -9,8 +9,12 @@ Feel free to play with a friend, and connect 4 in a row, vertically, horizontall
 * If the board fills up with no winner, then it is a tie!
 
 ## ▶️ How To Play
-1. Clone the repository in your terminal with the following command: **git clone https://github.com/Noah-Arechiga/Connect-4-Game.git**
-2. Run the game in your terminal by typing the following: **python Connect_4_Game.py**
+1. Clone the repository in your terminal with the following command:
+    * ```bash
+       git clone https://github.com/Noah-Arechiga/Connect-4-Game.git
+2. Run the game in your terminal by typing the following:
+    * ```bash
+      python Connect_4_Game.py
 3. Follow the instructions and have fun!
 
 ## 🎨 Features
