@@ -9,8 +9,8 @@ Feel free to play with a friend, and connect 4 in a row, vertically, horizontall
 * If the board fills up with no winner, then it is a tie!
 
 ## ▶️ How To Play
-1. Clone the repository in your termal with the following command: git clone ---
-2. Run the game in your terminal by typing the following: python connect4-game.py
+1. Clone the repository in your termal with the following command: git clone 
+2. Run the game in your terminal by typing the following: python Connect_4_Game.py
 3. Follow the instructions and have fun!
 
 ## 🎨 Features
